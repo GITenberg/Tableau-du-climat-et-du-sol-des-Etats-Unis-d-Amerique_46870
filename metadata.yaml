@@ -1,4 +1,8 @@
 _repo: Tableau-du-climat-et-du-sol-des-Etats-Unis-d-Amerique_46870
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46870-h/images/cover.png
 creator:
   author:
     agent_name: Volney, C.-F. (Constantin-François)
@@ -13,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Constantin-Fran%C3%A7ois_Chasseb%C5%93uf
     - http://fr.wikipedia.org/wiki/Volney
 description: Tome 4 des Œuvres de C.-F. Volney
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46870#Tableau-du-climat-et-du-sol-des-Etats-Unis-d-Amerique
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2014-09-16'
 gutenberg_type: Text
